@@ -36,6 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jishanpatel7&show_icons=true&locale=en&layout=compact" alt="jishanpatel7" /></p>
 
-<br><br>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishanpatel7&" alt="jishanpatel7" /></p>
+<p style="margin-top:10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishanpatel7&" alt="jishanpatel7" /></p>
