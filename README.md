@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iegavss3L6JKfpkamzSncU6IQdBOKxWd/view?usp=sharing](https://drive.google.com/file/d/1iegavss3L6JKfpkamzSncU6IQdBOKxWd/view?usp=sharing)
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Coding Fun Facts <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
