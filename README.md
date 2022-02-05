@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Jishan Pathan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> </h1>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Full!+Stack+Web+Developer;Full+stack+web+developer...)](https://git.io/typing-svg)
+ 
+
 <h3 align="center">Full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
 <h2> About Me </h2>
