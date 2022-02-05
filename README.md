@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
--👯 I’m looking to collaborate on OutSource Projects 
+- 👯 I’m currently Looking for **Outsource Projects.**
 
 - 💬 Ask me about **JavaScript, React, OpenSource Technologies**
 
