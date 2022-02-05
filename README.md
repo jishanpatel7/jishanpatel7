@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Jishan Pathan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'> </h1>
 <h3 align="center">Full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jishanpatel7&label=Profile%20views&color=0e75b6&style=flat" alt="jishanpatel7" /> </p>
-<br>
-<p align="left" padding="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jishanpatel7" alt="jishanpatel7"/></a> </p> -->
+
+<h2> About Me </h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🔭 I’m currently working on [FrontendMasters Website Clone](https://github.com/jishanpatel7/FrontEndMasters-Website-Clone)
 
