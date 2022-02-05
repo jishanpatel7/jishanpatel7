@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jishan Pathan</h1>
+<h1 align="center">Hi, I'm Jishan Pathan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'> </h1>
 <h3 align="center">Full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jishanpatel7&label=Profile%20views&color=0e75b6&style=flat" alt="jishanpatel7" /> </p>
@@ -9,15 +10,18 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 📝 I regularly write articles on [https://hashnode.com/@jishanpatel77](https://hashnode.com/@jishanpatel77)
+-👯 I’m looking to collaborate on OutSource Projects 
 
-- 💬 Ask me about **react , Node , Express ,MongoDB,Git**
+- 💬 Ask me about **JavaScript, React, OpenSource Technologies**
 
 - 📫 How to reach me **jishanpatel78@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iegavss3L6JKfpkamzSncU6IQdBOKxWd/view?usp=sharing](https://drive.google.com/file/d/1iegavss3L6JKfpkamzSncU6IQdBOKxWd/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am always Curious About new Things.**
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +30,6 @@
 <a href="https://linkedin.com/in/jishanpatel7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jishanpatel7/" height="30" width="40" /></a>
 <a href="https://fb.com/jishan.patel.67" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jishan.patel.67" height="30" width="40" /></a>
 <a href="https://instagram.com/s.h.a.a.n.4real" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.a.a.n.4real" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jishanpatel77" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jishanpatel77" height="30" width="40" /></a>
 <a href="https://medium.com/@jishanpatel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jishanpatel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jishanpatel78" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jishanpatel78" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jishanpatel7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jishanpatel7/" height="30" width="40" /></a>
