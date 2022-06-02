@@ -10,10 +10,6 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on [FrontendMasters Website Clone](https://github.com/jishanpatel7/FrontEndMasters-Website-Clone)
-
-- 🌱 I’m currently learning **Full-Stack Web Development**
-
 - 👯 I’m currently Looking for **Outsource Projects.**
 
 - 💬 Ask me about **JavaScript, React, OpenSource Technologies**
